@@ -14,7 +14,7 @@ Developed an e-commerce application with implemented registration and login func
 
 # Kids learning app
 
-Simple kids learning app
+Simple kids learning app making few categories using Card View. 
 
 ### Technolgies : Android SDK , Kotlin, Xml
 
