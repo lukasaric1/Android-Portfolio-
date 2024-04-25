@@ -37,3 +37,15 @@ Unit converter app that converts imperial units to metric units and reverse.
 
 
 ### Technolgies : Android SDK , Java, Xml
+
+
+# BillTip Calculator
+
+Simple app that calculates tip amount based on bill amount
+
+<p align="center">
+<img src='images/BillTip1.png' width='200'>
+<img src='images/BillTip2.png' width='200'>
+
+
+### Technolgies : Android SDK , Kotlin, Jetpack Compose
