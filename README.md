@@ -49,3 +49,28 @@ Simple app that calculates tip amount based on bill amount
 
 
 ### Technolgies : Android SDK , Kotlin, Jetpack Compose
+
+
+# Unit Converter
+
+Units converter app that converts units:
+
+* Length
+* Time
+* Mass
+* Temperature
+* Volume
+* Area
+* Speed
+* Energy
+* Power
+* Pressure
+* Frequency
+* Currency.
+
+<p align="center">
+<img src='images/UnitsConverterMainScreen.png' width='200'>
+<img src='images/PressureScreen.png' width='200'>
+<img src='images/TemperatureScreen.png' width='200'>
+
+### Technolgies : Android SDK , Kotlin, Jetpack Compose
